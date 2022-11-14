@@ -1,0 +1,54 @@
+body{
+    background-color:#24262b;
+}
+
+.form{
+    background: gray;
+    width: 50%;
+    height: 600px;
+    border: 1px solid #2E4053;
+    border-radius: 25px;
+    margin-top: 150px;
+}
+
+.form h1{
+    text-align: center;
+    padding: 0px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.form .box{
+    text-align: center;
+    width: 50%;
+    height: 50px;
+    border-radius: 25px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+
+}
+
+.form .box1{
+    text-align: center;
+    width: 50%;
+    height: 80px;
+    border-radius: 25px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    background: transparent;
+
+}
+
+.form .submit{
+    margin-top: 20px;
+    width: 45%;
+    height: 40px;
+    background: #24262b;
+    border: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border-radius: 25px;
+}
